@@ -32,9 +32,9 @@ https://bestnest.streamlit.app/
 
 You can select any number of parameter and basis the selection you will get the list of top 10 cities.
 
-**Data Sources:**
+## Data Sources
 
-1. Cost of Living : https://advisorsmith.com/data/coli/
+**1. Cost of Living :** https://advisorsmith.com/data/coli/
 
 Cost of Living Index is modeled upon national average household budgets, with weights assigned to six major categories of household expenses. 
 The expense categories along with their weights are listed below:
@@ -47,24 +47,26 @@ Healthcare: 9.6%
 Consumer Discretionary Spending: 22.3%
 These categories are aggregated to produce a cost of living index value for each of the cities.
 
-2. Crime Cost : https://www.moneygeek.com/living/safest-cities/
+**2. Crime Cost :** https://www.moneygeek.com/living/safest-cities/
 
 MoneyGeek’s annual analysis looks at the most recent crime statistics from the Federal Bureau of Investigation (FBI) to estimate the cost of crime in 302 cities with populations greater than 100,000 across the United States. 
 The analysis pairs reported crime statistics with academic research on the societal costs of different types of crimes to estimate the cost of crime for each city.
 
 
-3. Literacy Rate : https://wallethub.com/edu/e/most-and-least-educated-cities/6656
+**3. Literacy Rate :** https://wallethub.com/edu/e/most-and-least-educated-cities/6656
 
 Total Literacy score for a City includes  including “Educational Attainment” and “Quality of Education & Attainment Gap.” From the survey conducted by Wallet Hub team. The higher the Total Score more literate is the city.
 
-4.Air Quality : https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
+**4.Air Quality :** https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 
 AQI is calculated each day for each monitor for the Criteria Gases and PM10 and PM2.5 (FRM and non FRM).
 
 
-Note :
+
+*Note :
 Literacy Rate website only allow us once to scrape the website once. 
-Hence we download the data in a csv and utilise it here if the status response is 403.
+Hence we download the data in a csv and utilise it here if the status response is 403.*
+
 
 Normalisation of scoring:
 
