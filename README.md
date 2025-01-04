@@ -61,8 +61,6 @@ Total Literacy score for a City includes  including “Educational Attainment”
 
 AQI is calculated each day for each monitor for the Criteria Gases and PM10 and PM2.5 (FRM and non FRM).
 
-
-
 *Note :
 Literacy Rate website only allow us once to scrape the website once. 
 Hence we download the data in a csv and utilise it here if the status response is 403.*
@@ -71,3 +69,7 @@ Hence we download the data in a csv and utilise it here if the status response i
 Normalisation of scoring:
 
 Since the scale of scoring was different for all the parameters we scraped from the internet we normalised the scores out of 10. 10 being the best and 1 being the worst and calculated the total score based on the parameters selected by the user and ranked the cities based on descending order of their scores.
+
+## Structure
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/048f300c-4078-42d2-a380-f73954a75abe" />
+
