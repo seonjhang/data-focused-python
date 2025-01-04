@@ -72,3 +72,8 @@ Since the scale of scoring was different for all the parameters we scraped from 
 ## Structure
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/048f300c-4078-42d2-a380-f73954a75abe" />
 
+## Output
+Example of the output (visualization)
+
+![output_visualization (1,3,4)](https://github.com/user-attachments/assets/98c38e87-9464-4378-be19-95fe09e9ac78)
+
