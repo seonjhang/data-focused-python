@@ -1,0 +1,511 @@
+City,State,Cost of Living Index,ID,Score
+San Francisco,CA,178.6,1,1
+San Jose,CA,173.5,2,1
+Kapaa,HI,164.9,3,1
+Santa Cruz,CA,163.9,4,1
+Kahului,HI,158.5,5,1
+Honolulu,HI,158.0,6,1
+Napa,CA,149.6,7,1
+Santa Maria,CA,143.0,8,1
+Santa Rosa,CA,141.7,9,1
+Los Angeles,CA,140.6,10,1
+Key West,FL,140.0,11,1
+Salinas,CA,138.3,12,1
+Hilo,HI,136.9,13,1
+San Diego,CA,136.2,14,1
+San Luis Obispo,CA,136.1,15,1
+Truckee,CA,132.8,16,1
+Boston,MA,132.6,17,1
+Ventura,CA,132.2,18,1
+New York,NY,128.0,19,1
+Ukiah,CA,128.0,20,1
+Glenwood Springs,CO,127.8,21,1
+Bozeman,MT,125.3,22,1
+Oak Harbor,WA,125.2,23,1
+Vallejo,CA,125.2,24,1
+Seattle,WA,124.6,25,1
+Barnstable Town,MA,122.4,26,1
+Sacramento,CA,120.3,27,1
+Washington,DC,120.1,28,1
+Stamford,CT,119.2,29,1
+Boulder,CO,118.7,30,1
+Portland,OR,116.5,31,1
+Eureka,CA,116.5,32,1
+Riverside,CA,116.1,33,1
+Bend,OR,115.9,34,1
+Bremerton,WA,115.0,35,1
+Stockton,CA,113.6,36,1
+Worcester,MA,113.2,37,1
+Portland,ME,113.0,38,1
+Burlington,VT,112.8,39,1
+Kalispell,MT,112.7,40,1
+Modesto,CA,112.3,41,1
+Denver,CO,112.1,42,1
+Bellingham,WA,111.6,43,1
+Providence,RI,111.5,44,1
+Olympia,WA,110.9,45,1
+Anchorage,AK,110.7,46,1
+Corvallis,OR,110.6,47,1
+Chico,CA,110.5,48,1
+Miami,FL,110.1,49,1
+Mount Vernon,WA,110.1,50,1
+Shelton,WA,109.6,51,2
+Manchester,NH,109.6,52,2
+Ocean City,NJ,109.5,53,2
+Hilton Head Island,SC,109.4,54,2
+Naples,FL,109.4,55,2
+Fort Collins,CO,109.2,56,2
+Port Angeles,WA,109.1,57,2
+Madera,CA,108.9,58,2
+Clearlake,CA,108.8,59,2
+Redding,CA,108.7,60,2
+Yuba City,CA,108.7,61,2
+Flagstaff,AZ,108.5,62,2
+Eugene,OR,108.4,63,2
+Concord,NH,108.3,64,2
+Merced,CA,108.2,65,2
+Fairbanks,AK,107.9,66,2
+New Haven,CT,107.7,67,2
+Medford,OR,107.5,68,2
+Reno,NV,107.4,69,2
+Baltimore,MD,107.0,70,2
+Grants Pass,OR,106.6,71,2
+Austin,TX,106.6,72,2
+Wenatchee,WA,106.6,73,2
+Springfield,MA,106.5,74,2
+Pittsfield,MA,106.4,75,2
+Greenfield Town,MA,106.2,76,2
+Kingston,NY,106.1,77,2
+Greeley,CO,106.1,78,2
+Fresno,CA,105.9,79,2
+Salt Lake City,UT,105.9,80,2
+New London,CT,105.9,81,2
+Salem,OR,105.8,82,2
+Minneapolis,MN,105.4,83,2
+Hanford,CA,105.4,84,2
+Albany,OR,105.4,85,2
+Torrington,CT,105.2,86,2
+Santa Fe,NM,105.1,87,2
+California,MD,104.8,88,2
+Hartford,CT,104.8,89,2
+Crestview,FL,104.7,90,2
+Prescott,AZ,104.6,91,2
+Sarasota,FL,104.4,92,2
+Phoenix,AZ,104.3,93,2
+Trenton,NJ,104.3,94,2
+Helena,MT,104.2,95,2
+Visalia,CA,103.6,96,2
+Sevierville,TN,103.5,97,2
+Missoula,MT,103.4,98,2
+Philadelphia,PA,103.4,99,2
+Coeur d'Alene,ID,103.3,100,2
+Centralia,WA,103.3,101,2
+Asheville,NC,103.3,102,3
+Salisbury,MD,103.2,103,3
+Carson City,NV,103.0,104,3
+Bakersfield,CA,102.9,105,3
+Faribault,MN,102.3,106,3
+Claremont,NH,102.3,107,3
+El Centro,CA,102.3,108,3
+Morehead City,NC,102.2,109,3
+Colorado Springs,CO,102.2,110,3
+Keene,NH,102.1,111,3
+Charlottesville,VA,102.1,112,3
+Atlantic City,NJ,102.0,113,3
+Coos Bay,OR,102.0,114,3
+Show Low,AZ,101.9,115,3
+Panama City,FL,101.9,116,3
+Ithaca,NY,101.7,117,3
+Charleston,SC,101.7,118,3
+Longview,WA,101.6,119,3
+Fort Myers,FL,101.5,120,3
+Tampa,FL,101.4,121,3
+Orlando,FL,101.4,122,3
+Dover,DE,101.3,123,3
+Port St. Lucie,FL,101.1,124,3
+Walla Walla,WA,100.9,125,3
+Provo,UT,100.9,126,3
+Roseburg,OR,100.8,127,3
+The Villages,FL,100.7,128,3
+Las Vegas,NV,100.7,129,3
+Spokane,WA,100.4,130,3
+Boise City,ID,100.3,131,3
+Punta Gorda,FL,100.3,132,3
+Atlanta,GA,100.3,133,3
+Nashville,TN,100.1,134,3
+Chicago,IL,100.1,135,3
+Albany,NY,100.1,136,3
+Augusta,ME,100.0,137,3
+Ogden,UT,99.8,138,3
+State College,PA,99.8,139,3
+Durham,NC,99.8,140,3
+Kennewick,WA,99.7,141,3
+Lewiston,ME,99.7,142,3
+Raleigh,NC,99.7,143,3
+Hagerstown,MD,99.7,144,3
+Daytona Beach,FL,99.6,145,3
+Traverse City,MI,99.6,146,3
+Madison,WI,99.5,147,3
+Lancaster,PA,99.5,148,3
+Ann Arbor,MI,99.3,149,3
+Melbourne,FL,99.3,150,3
+Richmond,VA,99.2,151,3
+Jacksonville,FL,99.0,152,3
+Wilmington,NC,99.0,153,4
+Virginia Beach,VA,99.0,154,4
+Allentown,PA,98.9,155,4
+Vero Beach,FL,98.9,156,4
+Glens Falls,NY,98.6,157,4
+Dallas,TX,98.5,158,4
+Lake Havasu City,AZ,98.4,159,4
+Gettysburg,PA,98.2,160,4
+Grand Junction,CO,98.1,161,4
+St. George,UT,98.0,162,4
+Bangor,ME,98.0,163,4
+Charlotte,NC,97.9,164,4
+Brainerd,MN,97.9,165,4
+Hermiston,OR,97.9,166,4
+Pensacola,FL,97.9,167,4
+Vineland,NJ,97.8,168,4
+Midland,TX,97.8,169,4
+Tucson,AZ,97.7,170,4
+Whitewater,WI,97.7,171,4
+Aberdeen,WA,97.6,172,4
+Yakima,WA,97.5,173,4
+Jefferson,GA,97.4,174,4
+Buffalo,NY,97.3,175,4
+Savannah,GA,97.3,176,4
+Gainesville,FL,97.3,177,4
+Rochester,MN,97.3,178,4
+Winchester,VA,97.2,179,4
+Watertown,WI,97.1,180,4
+Klamath Falls,OR,97.1,181,4
+Gainesville,GA,97.0,182,4
+Cheyenne,WY,96.9,183,4
+Rochester,NY,96.6,184,4
+Daphne,AL,96.6,185,4
+Lakeland,FL,96.4,186,4
+Watertown,NY,96.4,187,4
+Tallahassee,FL,96.4,188,4
+Holland,MI,96.2,189,4
+East Stroudsburg,PA,96.1,190,4
+Reading,PA,96.0,191,4
+Harrisburg,PA,95.8,192,4
+York,PA,95.8,193,4
+Houston,TX,95.8,194,4
+Chambersburg,PA,95.7,195,4
+Billings,MT,95.7,196,4
+Moses Lake,WA,95.7,197,4
+Homosassa Springs,FL,95.5,198,4
+Wooster,OH,95.5,199,4
+Harrisonburg,VA,95.5,200,4
+St. Cloud,MN,95.4,201,4
+Lebanon,PA,95.4,202,4
+Mankato,MN,95.3,203,4
+Logan,UT,95.2,204,5
+Syracuse,NY,95.1,205,5
+Athens,GA,95.0,206,5
+Greenville,SC,95.0,207,5
+Myrtle Beach,SC,94.7,208,5
+Lincoln,NE,94.7,209,5
+Staunton,VA,94.5,210,5
+Yuma,AZ,94.5,211,5
+Ocala,FL,94.5,212,5
+Blacksburg,VA,94.5,213,5
+Brunswick,GA,94.4,214,5
+Rapid City,SD,94.2,215,5
+Casper,WY,94.2,216,5
+Utica,NY,94.1,217,5
+Roanoke,VA,94.1,218,5
+Seneca,SC,94.0,219,5
+Columbus,OH,93.9,220,5
+Milwaukee,WI,93.8,221,5
+Plattsburgh,NY,93.7,222,5
+Auburn,NY,93.7,223,5
+Grand Rapids,MI,93.7,224,5
+Lake City,FL,93.6,225,5
+Lynchburg,VA,93.6,226,5
+Iowa City,IA,93.5,227,5
+Williamsport,PA,93.4,228,5
+Corpus Christi,TX,93.3,229,5
+Binghamton,NY,93.3,230,5
+Bloomsburg,PA,93.2,231,5
+Duluth,MN,93.2,232,5
+Sierra Vista,AZ,93.2,233,5
+Palatka,FL,93.2,234,5
+Detroit,MI,93.2,235,5
+Sebring,FL,93.1,236,5
+Pittsburgh,PA,93.1,237,5
+Bismarck,ND,93.1,238,5
+Athens,TX,92.9,239,5
+Albuquerque,NM,92.9,240,5
+Beaver Dam,WI,92.9,241,5
+Omaha,NE,92.9,242,5
+Sioux Falls,SD,92.8,243,5
+Tyler,TX,92.8,244,5
+San Antonio,TX,92.7,245,5
+Odessa,TX,92.7,246,5
+Lewiston,ID,92.5,247,5
+Elmira,NY,92.5,248,5
+Bloomington,IN,92.4,249,5
+New Orleans,LA,92.4,250,5
+Cincinnati,OH,92.4,251,5
+Warsaw,IN,92.3,252,5
+College Station,TX,92.3,253,5
+Pueblo,CO,92.2,254,5
+Auburn,AL,91.9,255,6
+Columbia,SC,91.9,256,6
+Eau Claire,WI,91.8,257,6
+Erie,PA,91.8,258,6
+La Crosse,WI,91.8,259,6
+Burlington,NC,91.8,260,6
+Jacksonville,NC,91.7,261,6
+Idaho Falls,ID,91.7,262,6
+Des Moines,IA,91.7,263,6
+Louisville,KY,91.6,264,6
+Lawrence,KS,91.6,265,6
+Kansas City,MO,91.6,266,6
+Knoxville,TN,91.6,267,6
+Augusta,GA,91.6,268,6
+Ames,IA,91.5,269,6
+Stevens Point,WI,91.5,270,6
+Dunn,NC,91.4,271,6
+Fargo,ND,91.4,272,6
+Green Bay,WI,91.4,273,6
+Jamestown,NY,91.3,274,6
+Scranton,PA,91.3,275,6
+Sherman,TX,91.3,276,6
+Marquette,MI,91.3,277,6
+Huntsville,AL,91.3,278,6
+Twin Falls,ID,91.2,279,6
+Chattanooga,TN,91.2,280,6
+Huntsville,TX,91.2,281,6
+Winston-Salem,NC,91.2,282,6
+Elizabeth City,NC,91.1,283,6
+Baton Rouge,LA,91.1,284,6
+Great Falls,MT,91.1,285,6
+Findlay,OH,91.1,286,6
+Statesboro,GA,91.1,287,6
+Lexington,KY,91.1,288,6
+Tuscaloosa,AL,91.0,289,6
+Greensboro,NC,91.0,290,6
+Spartanburg,SC,91.0,291,6
+Kankakee,IL,91.0,292,6
+Albertville,AL,90.9,293,6
+Racine,WI,90.9,294,6
+Cumberland,MD,90.9,295,6
+Cookeville,TN,90.9,296,6
+Corning,NY,90.9,297,6
+Altoona,PA,90.8,298,6
+Richmond,KY,90.8,299,6
+Indiana,PA,90.8,300,6
+Sandusky,OH,90.8,301,6
+Pocatello,ID,90.8,302,6
+Hinesville,GA,90.8,303,6
+Grand Forks,ND,90.7,304,6
+Birmingham,AL,90.7,305,6
+Minot,ND,90.7,306,7
+Appleton,WI,90.7,307,7
+San Angelo,TX,90.7,308,7
+North Wilkesboro,NC,90.5,309,7
+Cullman,AL,90.5,310,7
+Monroe,MI,90.5,311,7
+Warner Robins,GA,90.5,312,7
+Adrian,MI,90.5,313,7
+Fayetteville,AR,90.4,314,7
+New Bern,NC,90.2,315,7
+Indianapolis,IN,90.2,316,7
+Laredo,TX,90.1,317,7
+Cleveland,OH,90.0,318,7
+Gallup,NM,90.0,319,7
+Marshall,TX,89.9,320,7
+Houma,LA,89.9,321,7
+Greenville,NC,89.8,322,7
+Chillicothe,OH,89.8,323,7
+Janesville,WI,89.8,324,7
+Columbia,MO,89.8,325,7
+Hickory,NC,89.8,326,7
+Sheboygan,WI,89.7,327,7
+Niles,MI,89.7,328,7
+Dubuque,IA,89.6,329,7
+Rome,GA,89.6,330,7
+St. Louis,MO,89.6,331,7
+Nacogdoches,TX,89.6,332,7
+Manhattan,KS,89.6,333,7
+Lafayette,LA,89.6,334,7
+Waco,TX,89.5,335,7
+Fayetteville,NC,89.5,336,7
+Victoria,TX,89.5,337,7
+Branson,MO,89.5,338,7
+Cleveland,TN,89.5,339,7
+Forest City,NC,89.4,340,7
+Lake Charles,LA,89.4,341,7
+Akron,OH,89.4,342,7
+Kalamazoo,MI,89.3,343,7
+Somerset,PA,89.3,344,7
+Valdosta,GA,89.2,345,7
+Columbus,IN,89.1,346,7
+Abilene,TX,89.1,347,7
+Dalton,GA,89.1,348,7
+Mount Airy,NC,89.0,349,7
+Oshkosh,WI,89.0,350,7
+Olean,NY,89.0,351,7
+Bloomington,IL,89.0,352,7
+Champaign,IL,89.0,353,7
+Hammond,LA,89.0,354,7
+New Philadelphia,OH,88.9,355,7
+Wausau,WI,88.9,356,7
+Grand Island,NE,88.8,357,8
+Las Cruces,NM,88.8,358,8
+Lubbock,TX,88.8,359,8
+Greenwood,SC,88.7,360,8
+Tullahoma,TN,88.7,361,8
+Lafayette,IN,88.7,362,8
+Lansing,MI,88.7,363,8
+Clarksville,TN,88.7,364,8
+Beaumont,TX,88.6,365,8
+El Paso,TX,88.6,366,8
+Decatur,AL,88.6,367,8
+Sunbury,PA,88.6,368,8
+Killeen,TX,88.6,369,8
+Montgomery,AL,88.5,370,8
+Longview,TX,88.5,371,8
+Meadville,PA,88.5,372,8
+Morgantown,WV,88.5,373,8
+Columbus,GA,88.5,374,8
+Goldsboro,NC,88.5,375,8
+Elkhart,IN,88.5,376,8
+Athens,OH,88.5,377,8
+Farmington,NM,88.4,378,8
+Dayton,OH,88.4,379,8
+Ogdensburg,NY,88.3,380,8
+Rocky Mount,NC,88.3,381,8
+Mobile,AL,88.3,382,8
+Amarillo,TX,88.2,383,8
+DuBois,PA,88.2,384,8
+Canton,OH,88.2,385,8
+Memphis,TN,88.2,386,8
+Lufkin,TX,88.2,387,8
+Cedar Rapids,IA,88.1,388,8
+Elizabethtown,KY,88.1,389,8
+Cape Girardeau,MO,88.1,390,8
+Shelby,NC,88.1,391,8
+Frankfort,KY,88.1,392,8
+Johnson City,TN,88.1,393,8
+New Castle,PA,88.1,394,8
+Sumter,SC,88.1,395,8
+Fond du Lac,WI,88.0,396,8
+Little Rock,AR,88.0,397,8
+Michigan City,IN,87.8,398,8
+Brownsville,TX,87.8,399,8
+Manitowoc,WI,87.8,400,8
+Jackson,MS,87.8,401,8
+Florence,SC,87.7,402,8
+Hobbs,NM,87.7,403,8
+Muskegon,MI,87.7,404,8
+Zanesville,OH,87.6,405,8
+Waterloo,IA,87.6,406,8
+Johnstown,PA,87.6,407,8
+Springfield,IL,87.5,408,9
+Springfield,OH,87.5,409,9
+Toledo,OH,87.5,410,9
+Talladega,AL,87.4,411,9
+Jackson,MI,87.4,412,9
+Ashtabula,OH,87.4,413,9
+Quincy,IL,87.3,414,9
+Oklahoma City,OK,87.3,415,9
+Morristown,TN,87.3,416,9
+Albany,GA,87.3,417,9
+Hot Springs,AR,87.3,418,9
+Tupelo,MS,87.2,419,9
+Macon,GA,87.2,420,9
+Lima,OH,87.2,421,9
+South Bend,IN,87.2,422,9
+Evansville,IN,87.2,423,9
+Davenport,IA,87.2,424,9
+Rockford,IL,87.2,425,9
+Sioux City,IA,87.1,426,9
+Danville,VA,87.1,427,9
+Midland,MI,87.0,428,9
+Pottsville,PA,87.0,429,9
+Bowling Green,KY,87.0,430,9
+Wisconsin Rapids,WI,86.9,431,9
+Mount Pleasant,MI,86.8,432,9
+Florence,AL,86.8,433,9
+Fort Wayne,IN,86.8,434,9
+Wichita,KS,86.8,435,9
+Gulfport,MS,86.8,436,9
+Tulsa,OK,86.7,437,9
+Peoria,IL,86.7,438,9
+Springfield,MO,86.7,439,9
+Ottawa,IL,86.6,440,9
+Marinette,WI,86.6,441,9
+Owensboro,KY,86.6,442,9
+Salem,OH,86.6,443,9
+Greeneville,TN,86.5,444,9
+Monroe,LA,86.5,445,9
+Youngstown,OH,86.4,446,9
+Jefferson City,MO,86.3,447,9
+Roswell,NM,86.3,448,9
+Texarkana,TX,86.3,449,9
+Wilson,NC,86.3,450,9
+Stillwater,OK,86.3,451,9
+Dothan,AL,86.3,452,9
+Alexandria,LA,86.2,453,9
+Mansfield,OH,86.2,454,9
+Opelousas,LA,86.1,455,9
+Hattiesburg,MS,86.1,456,9
+LaGrange,GA,86.0,457,9
+McAllen,TX,86.0,458,9
+Kingsport,TN,86.0,459,10
+Gadsden,AL,86.0,460,10
+Laurel,MS,85.9,461,10
+Battle Creek,MI,85.9,462,10
+Alamogordo,NM,85.8,463,10
+Shreveport,LA,85.8,464,10
+Wichita Falls,TX,85.7,465,10
+Anniston,AL,85.7,466,10
+Flint,MI,85.7,467,10
+Paducah,KY,85.7,468,10
+Marion,OH,85.7,469,10
+Topeka,KS,85.6,470,10
+St. Joseph,MO,85.5,471,10
+Russellville,AR,85.5,472,10
+Farmington,MO,85.4,473,10
+Searcy,AR,85.4,474,10
+Bay City,MI,85.4,475,10
+Orangeburg,SC,85.3,476,10
+Joplin,MO,85.2,477,10
+Jackson,TN,85.2,478,10
+Jonesboro,AR,85.2,479,10
+Martinsville,VA,85.0,480,10
+Kokomo,IN,84.9,481,10
+Decatur,IL,84.9,482,10
+Owosso,MI,84.8,483,10
+Parkersburg,WV,84.7,484,10
+Terre Haute,IN,84.7,485,10
+Portsmouth,OH,84.7,486,10
+London,KY,84.6,487,10
+Huntington,WV,84.3,488,10
+Richmond,IN,84.2,489,10
+Fort Smith,AR,84.2,490,10
+Wheeling,WV,84.1,491,10
+Saginaw,MI,84.0,492,10
+Hutchinson,KS,84.0,493,10
+Danville,IL,83.9,494,10
+Charleston,WV,83.9,495,10
+Muncie,IN,83.7,496,10
+Carbondale,IL,83.5,497,10
+Clarksburg,WV,83.4,498,10
+Lumberton,NC,83.4,499,10
+Roanoke Rapids,NC,83.1,500,10
+Enid,OK,82.9,501,10
+Lawton,OK,82.8,502,10
+Weirton,WV,82.6,503,10
+Shawnee,OK,82.4,504,10
+Pine Bluff,AR,82.3,505,10
+Meridian,MS,82.0,506,10
+Marion,IN,81.8,507,10
+Muskogee,OK,81.3,508,10
+Bluefield,WV,81.2,509,10
+Beckley,WV,80.0,510,

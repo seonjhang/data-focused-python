@@ -1,0 +1,477 @@
+CBSA,Days with AQI,Good Days,City,score
+"Aberdeen, WA",182,180,Aberdeen,10
+"New Castle, PA",31,31,New Castle,10
+"Steamboat Springs, CO",273,272,Steamboat Springs,10
+"Bremerton-Silverdale, WA",200,196,Bremerton-Silverdale,10
+"Show Low, AZ",274,274,Show Low,10
+"Ca?on City, CO",274,273,Ca?on City,10
+"Sebastian-Vero Beach, FL",235,234,Sebastian-Vero Beach,10
+"Centralia, WA",205,202,Centralia,10
+"Santa Rosa, CA",182,181,Santa Rosa,10
+"Salem, OH",48,48,Salem,10
+"Ruidoso, NM",20,20,Ruidoso,10
+"Clearlake, CA",31,31,Clearlake,10
+"Havre, MT",176,173,Havre,10
+"Mount Vernon-Anacortes, WA",213,209,Mount Vernon-Anacortes,10
+"Bellingham, WA",208,204,Bellingham,10
+"Elko, NV",182,182,Elko,10
+"Meridian, MS",214,213,Meridian,10
+"Mayaguez, PR",176,176,Mayaguez,10
+"Evanston, WY",182,182,Evanston,10
+"Los Alamos, NM",20,20,Los Alamos,10
+"Lake Havasu City-Kingman, AZ",268,264,Lake Havasu City-Kingman,10
+"La Grande, OR",182,179,La Grande,10
+"Kahului-Wailuku-Lahaina, HI",182,181,Kahului-Wailuku-Lahaina,10
+"Hailey, ID",176,176,Hailey,10
+"Houghton, MI",20,20,Houghton,10
+"Hilo, HI",241,237,Hilo,10
+"Taos, NM",181,181,Taos,10
+"Coeur d'Alene, ID",173,173,Coeur d'Alene,10
+"Urban Honolulu, HI",183,180,Urban Honolulu,10
+"Olympia-Tumwater, WA",211,203,Olympia-Tumwater,9
+"Guayama, PR",27,26,Guayama,9
+"Chambersburg-Waynesboro, PA",175,171,Chambersburg-Waynesboro,9
+"Sandpoint, ID",181,173,Sandpoint,9
+"Shelton, WA",213,206,Shelton,9
+"Watertown-Fort Drum, NY",273,264,Watertown-Fort Drum,9
+"Longview, WA",213,207,Longview,9
+"Rockland, ME",295,283,Rockland,9
+"Morehead City, NC",243,236,Morehead City,9
+"Moscow, ID",182,178,Moscow,9
+"Kinston, NC",274,261,Kinston,9
+"Summerville, GA",182,173,Summerville,9
+"Othello, WA",213,207,Othello,9
+"Pierre, SD",182,178,Pierre,9
+"Ithaca, NY",240,232,Ithaca,9
+"Harrison, AR",274,262,Harrison,9
+"Pahrump, NV",182,173,Pahrump,9
+"Winona, MN",20,19,Winona,9
+"Dodge City, KS",182,174,Dodge City,9
+"Port Angeles, WA",213,198,Port Angeles,8
+"Victoria, TX",182,169,Victoria,8
+"Deming, NM",182,170,Deming,8
+"Athens, OH",272,247,Athens,8
+"Palatka, FL",178,164,Palatka,8
+"Americus, GA",184,169,Americus,8
+"Emporia, KS",20,18,Emporia,8
+"Ellensburg, WA",213,195,Ellensburg,8
+"Claremont-Lebanon, NH-VT",244,231,Claremont-Lebanon,8
+"Arkadelphia, AR",238,223,Arkadelphia,8
+"Duluth, MN-WI",244,223,Duluth,8
+"Morristown, TN",122,111,Morristown,8
+"Pocatello, ID",182,169,Pocatello,8
+"Ponce, PR",175,165,Ponce,8
+"Effingham, IL",210,192,Effingham,8
+"Vineyard Haven, MA",240,222,Vineyard Haven,8
+"Moses Lake, WA",213,194,Moses Lake,8
+"Scottsbluff, NE",246,226,Scottsbluff,8
+"Columbia, MO",125,116,Columbia,8
+"Pullman, WA",213,196,Pullman,8
+"Crestview-Fort Walton Beach-Destin, FL",182,167,Crestview-Fort Walton Beach-Destin,8
+"Concord, NH",122,113,Concord,8
+"Quincy, IL-MO",204,189,Quincy,8
+"Bangor, ME",271,245,Bangor,8
+"Twin Falls, ID",171,158,Twin Falls,8
+"Lewiston-Auburn, ME",305,281,Lewiston-Auburn,8
+"Bennington, VT",182,169,Bennington,8
+"Gardnerville Ranchos, NV",162,153,Gardnerville Ranchos,8
+"Bemidji, MN",182,172,Bemidji,8
+"La Crosse-Onalaska, WI-MN",98,90,La Crosse-Onalaska,8
+"Brookings, SD",182,168,Brookings,8
+"Laconia, NH",182,171,Laconia,8
+"St. Marys, PA",237,224,St. Marys,8
+"Vallejo-Fairfield, CA",274,255,Vallejo-Fairfield,8
+"Jefferson City, MO",128,121,Jefferson City,8
+"Billings, MT",175,158,Billings,8
+"Fond du Lac, WI",98,92,Fond du Lac,8
+"The Dalles, OR",180,165,The Dalles,8
+"Blacksburg-Christiansburg-Radford, VA",233,210,Blacksburg-Christiansburg-Radford,8
+"Albany, OR",182,170,Albany,8
+"Fernley, NV",180,162,Fernley,8
+"Lubbock, TX",175,162,Lubbock,8
+"Barnstable Town, MA",235,217,Barnstable Town,8
+"Manchester-Nashua, NH",183,165,Manchester-Nashua,8
+"Greenville, NC",274,245,Greenville,7
+"Marietta, OH",213,185,Marietta,7
+"Walla Walla, WA",244,208,Walla Walla,7
+"Norwich-New London, CT",182,158,Norwich-New London,7
+"Indiana, PA",178,153,Indiana,7
+"Hermiston-Pendleton, OR",182,157,Hermiston-Pendleton,7
+"Wabash, IN",244,217,Wabash,7
+"Juneau, AK",175,150,Juneau,7
+"East Stroudsburg, PA",177,155,East Stroudsburg,7
+"Jamestown-Dunkirk-Fredonia, NY",273,241,Jamestown-Dunkirk-Fredonia,7
+"Grants Pass, OR",274,235,Grants Pass,7
+"Kalispell, MT",241,207,Kalispell,7
+"Gainesville, FL",182,155,Gainesville,7
+"Wausau, WI",182,157,Wausau,7
+"Erie, PA",245,210,Erie,7
+"Watertown-Fort Atkinson, WI",97,84,Watertown-Fort Atkinson,7
+"Eureka-Arcata-Fortuna, CA",305,269,Eureka-Arcata-Fortuna,7
+"Altoona, PA",182,159,Altoona,7
+"Marquette, MI",149,131,Marquette,7
+"Ludington, MI",213,191,Ludington,7
+"Manitowoc, WI",98,87,Manitowoc,7
+"Daphne-Fairhope-Foley, AL",210,181,Daphne-Fairhope-Foley,7
+"Owensboro, KY",107,94,Owensboro,7
+"Brainerd, MN",182,158,Brainerd,7
+"Casper, WY",182,157,Casper,7
+"Cape Coral-Fort Myers, FL",182,161,Cape Coral-Fort Myers,7
+"Sheboygan, WI",98,85,Sheboygan,7
+"Atlantic City-Hammonton, NJ",182,160,Atlantic City-Hammonton,7
+"Burlington-South Burlington, VT",183,163,Burlington-South Burlington,7
+"Sioux Falls, SD",183,162,Sioux Falls,7
+"Somerset, PA",237,210,Somerset,7
+"Branson, MO",20,17,Branson,7
+"Bozeman, MT",245,212,Bozeman,7
+"Vincennes, IN",238,203,Vincennes,7
+"Sonora, CA",178,160,Sonora,7
+"Birmingham-Hoover, AL",175,157,Birmingham-Hoover,7
+"Berlin, NH-VT",183,156,Berlin,7
+"Tyler, TX",182,155,Tyler,7
+"Traverse City, MI",214,190,Traverse City,7
+"Truckee-Grass Valley, CA",182,159,Truckee-Grass Valley,7
+"Tupelo, MS",214,192,Tupelo,7
+"Tuscaloosa, AL",212,185,Tuscaloosa,7
+"Scranton--Wilkes-Barre--Hazleton, PA",232,203,Scranton--Wilkes-Barre--Hazleton,7
+"Cadillac, MI",274,242,Cadillac,7
+"Red Wing, MN",121,108,Red Wing,7
+"Rocky Mount, NC",264,235,Rocky Mount,7
+"Baraboo, WI",182,157,Baraboo,7
+"Port St. Lucie, FL",182,157,Port St. Lucie,7
+"Portland-Vancouver-Hillsboro, OR-WA",274,235,Portland-Vancouver-Hillsboro,7
+"Corning, NY",275,236,Corning,7
+"Heber, UT",92,79,Heber,7
+"Roswell, NM",20,16,Roswell,6
+"Prineville, OR",274,228,Prineville,6
+"Mount Vernon, OH",245,208,Mount Vernon,6
+"St. Cloud, MN",182,151,St. Cloud,6
+"Joplin, MO",178,148,Joplin,6
+"Johnstown, PA",244,205,Johnstown,6
+"State College, PA",238,192,State College,6
+"Janesville-Beloit, WI",98,80,Janesville-Beloit,6
+"Syracuse, NY",274,232,Syracuse,6
+"Santa Cruz-Watsonville, CA",182,151,Santa Cruz-Watsonville,6
+"Jackson, TN",178,146,Jackson,6
+"Muskegon, MI",212,174,Muskegon,6
+"Marshall, MN",182,154,Marshall,6
+"Torrington, CT",181,153,Torrington,6
+"Salisbury, MD-DE",182,149,Salisbury,6
+"Niles-Benton Harbor, MI",204,167,Niles-Benton Harbor,6
+"Worcester, MA-CT",245,206,Worcester,6
+"Salinas, CA",183,150,Salinas,6
+"Palm Bay-Melbourne-Titusville, FL",182,148,Palm Bay-Melbourne-Titusville,6
+"Wilmington, NC",274,232,Wilmington,6
+"Keene, NH",182,152,Keene,6
+"Vermillion, SD",182,150,Vermillion,6
+"Kennewick-Richland, WA",213,174,Kennewick-Richland,6
+"Lynchburg, VA",90,75,Lynchburg,6
+"Sebring, FL",181,151,Sebring,6
+"Watertown, SD",177,149,Watertown,6
+"Monroe, LA",305,247,Monroe,6
+"Oxford, NC",214,176,Oxford,6
+"Rochester, MN",182,149,Rochester,6
+"Lincoln, NE",152,125,Lincoln,6
+"Sheridan, WY",213,177,Sheridan,6
+"Lexington-Fayette, KY",187,152,Lexington-Fayette,6
+"Morgantown, WV",139,116,Morgantown,6
+"Sioux City, IA-NE-SD",264,215,Sioux City,6
+"Roanoke Rapids, NC",213,177,Roanoke Rapids,6
+"Wenatchee, WA",213,178,Wenatchee,6
+"Redding, CA",211,178,Redding,6
+"Utica-Rome, NY",257,216,Utica-Rome,6
+"Vineland-Bridgeton, NJ",178,151,Vineland-Bridgeton,6
+"Red Bluff, CA",182,151,Red Bluff,6
+"Rutland, VT",183,154,Rutland,6
+"Lansing-East Lansing, MI",274,229,Lansing-East Lansing,6
+"Eau Claire, WI",182,151,Eau Claire,6
+"Carson City, NV",182,146,Carson City,6
+"Augusta-Waterville, ME",305,254,Augusta-Waterville,6
+"Beaver Dam, WI",183,153,Beaver Dam,6
+"Appleton, WI",182,150,Appleton,6
+"Grand Junction, CO",273,222,Grand Junction,6
+"Alexandria, LA",60,48,Alexandria,6
+"Green Bay, WI",182,148,Green Bay,6
+"Bowling Green, KY",243,198,Bowling Green,6
+"Fayetteville-Springdale-Rogers, AR-MO",274,226,Fayetteville-Springdale-Rogers,6
+"Brunswick, GA",274,225,Brunswick,6
+"Crescent City, CA",129,108,Crescent City,6
+"Cookeville, TN",177,148,Cookeville,6
+"Fallon, NV",182,152,Fallon,6
+"Butte-Silver Bow, MT",182,150,Butte-Silver Bow,6
+"Ashtabula, OH",214,177,Ashtabula,6
+"Dyersburg, TN",174,143,Dyersburg,6
+"Clarksburg, WV",56,45,Clarksburg,6
+"Elizabethtown-Fort Knox, KY",154,129,Elizabethtown-Fort Knox,6
+"Charleston, WV",183,153,Charleston,6
+"Dalton, GA",198,161,Dalton,6
+"Cambridge, MD",274,219,Cambridge,5
+"Odessa, TX",180,137,Odessa,5
+"Paducah, KY-IL",182,140,Paducah,5
+"Charlottesville, VA",272,207,Charlottesville,5
+"Topeka, KS",182,140,Topeka,5
+"Bend-Redmond, OR",267,201,Bend-Redmond,5
+"Cheyenne, WY",183,145,Cheyenne,5
+"Dickinson, ND",274,217,Dickinson,5
+"Roanoke, VA",275,217,Roanoke,5
+"Clarksville, TN-KY",182,142,Clarksville,5
+"Muscatine, IA",305,231,Muscatine,5
+"Medford, OR",274,215,Medford,5
+"Nogales, AZ",270,203,Nogales,5
+"Chico, CA",193,145,Chico,5
+"Minot, ND",274,217,Minot,5
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",274,215,Myrtle Beach-Conway-North Myrtle Beach,5
+"Deltona-Daytona Beach-Ormond Beach, FL",182,143,Deltona-Daytona Beach-Ormond Beach,5
+"Sayre, PA",179,139,Sayre,5
+"Cedar City, UT",273,216,Cedar City,5
+"Fairmont, WV",53,42,Fairmont,5
+"Fargo, ND-MN",274,211,Fargo,5
+"Portland-South Portland, ME",305,233,Portland-South Portland,5
+"Pittsfield, MA",244,194,Pittsfield,5
+"Hartford-West Hartford-East Hartford, CT",182,140,Hartford-West Hartford-East Hartford,5
+"Hagerstown-Martinsburg, MD-WV",305,230,Hagerstown-Martinsburg,5
+"Anchorage, AK",183,138,Anchorage,5
+"Idaho Falls, ID",238,186,Idaho Falls,5
+"Parkersburg-Vienna, WV",140,111,Parkersburg-Vienna,5
+"Greenfield Town, MA",248,197,Greenfield Town,5
+"Yuba City, CA",182,139,Yuba City,5
+"Ann Arbor, MI",244,183,Ann Arbor,5
+"Klamath Falls, OR",274,217,Klamath Falls,5
+"Providence-Warwick, RI-MA",250,188,Providence-Warwick,5
+"Yakima, WA",213,162,Yakima,5
+"Platteville, WI",182,145,Platteville,5
+"Harrisonburg, VA",274,207,Harrisonburg,5
+"Racine, WI",98,78,Racine,5
+"Whitewater-Elkhorn, WI",98,76,Whitewater-Elkhorn,5
+"Dover, DE",153,113,Dover,4
+"Iowa City, IA",305,217,Iowa City,4
+"Greensboro-High Point, NC",274,198,Greensboro-High Point,4
+"Madison, WI",182,132,Madison,4
+"Sevierville, TN",244,179,Sevierville,4
+"Williamsport, PA",182,136,Williamsport,4
+"Rock Springs, WY",213,154,Rock Springs,4
+"Hobbs, NM",180,126,Hobbs,4
+"Albany-Schenectady-Troy, NY",274,203,Albany-Schenectady-Troy,4
+"Santa Fe, NM",180,126,Santa Fe,4
+"Winchester, VA-WV",274,205,Winchester,4
+"New Haven-Milford, CT",183,132,New Haven-Milford,4
+"Fayetteville, NC",274,195,Fayetteville,4
+"Ada, OK",290,208,Ada,4
+"Bridgeport-Stamford-Norwalk, CT",182,132,Bridgeport-Stamford-Norwalk,4
+"Grand Island, NE",266,193,Grand Island,4
+"Bay City, MI",271,203,Bay City,4
+"Helena, MT",183,130,Helena,4
+"Beatrice, NE",249,176,Beatrice,4
+"Virginia Beach-Norfolk-Newport News, VA-NC",275,200,Virginia Beach-Norfolk-Newport News,4
+"Kingsport-Bristol-Bristol, TN-VA",209,154,Kingsport-Bristol-Bristol,4
+"Gillette, WY",211,150,Gillette,4
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",182,128,San Luis Obispo-Paso Robles-Arroyo Grande,4
+"Columbus, IN",305,218,Columbus,4
+"Lawrenceburg, TN",176,126,Lawrenceburg,4
+"Allentown-Bethlehem-Easton, PA-NJ",182,128,Allentown-Bethlehem-Easton,4
+"Boston-Cambridge-Newton, MA-NH",255,182,Boston-Cambridge-Newton,4
+"Fort Payne, AL",244,182,Fort Payne,4
+"Hickory-Lenoir-Morganton, NC",274,198,Hickory-Lenoir-Morganton,4
+"Lima, OH",274,200,Lima,4
+"Springfield, MA",249,186,Springfield,4
+"Spokane-Spokane Valley, WA",213,152,Spokane-Spokane Valley,4
+"Milwaukee-Waukesha-West Allis, WI",183,131,Milwaukee-Waukesha-West Allis,4
+"Flint, MI",274,197,Flint,4
+"Muncie, IN",305,205,Muncie,3
+"Decatur, AL",213,144,Decatur,3
+"Naples-Immokalee-Marco Island, FL",182,125,Naples-Immokalee-Marco Island,3
+"Rome, GA",271,187,Rome,3
+"Portsmouth, OH",274,182,Portsmouth,3
+"Rockford, IL",274,190,Rockford,3
+"Price, UT",274,189,Price,3
+"Douglas, GA",269,178,Douglas,3
+"Cleveland, MS",274,181,Cleveland,3
+"Richmond, VA",275,191,Richmond,3
+"Orlando-Kissimmee-Sanford, FL",275,192,Orlando-Kissimmee-Sanford,3
+"Reading, PA",182,126,Reading,3
+"Raleigh, NC",274,190,Raleigh,3
+"Peoria, IL",252,174,Peoria,3
+"Buffalo-Cheektowaga-Niagara Falls, NY",304,206,Buffalo-Cheektowaga-Niagara Falls,3
+"San Jose-Sunnyvale-Santa Clara, CA",244,164,San Jose-Sunnyvale-Santa Clara,3
+"Lewiston, ID-WA",272,183,Lewiston,3
+"Homosassa Springs, FL",182,126,Homosassa Springs,3
+"Adrian, MI",182,121,Adrian,3
+"Huntington-Ashland, WV-KY-OH",274,181,Huntington-Ashland,3
+"Huntsville, AL",181,124,Huntsville,3
+"Wichita, KS",182,123,Wichita,3
+"Jasper, IN",274,186,Jasper,3
+"Amarillo, TX",243,169,Amarillo,3
+"Warner Robins, GA",270,186,Warner Robins,3
+"Asheville, NC",274,186,Asheville,3
+"Trenton, NJ",243,165,Trenton,3
+"Montgomery, AL",205,138,Montgomery,3
+"Bloomington, IL",274,186,Bloomington,3
+"Lebanon, PA",182,120,Lebanon,3
+"Bismarck, ND",275,189,Bismarck,3
+"St. George, UT",274,188,St. George,3
+"Savannah, GA",270,182,Savannah,3
+"Charleston-North Charleston, SC",274,190,Charleston-North Charleston,3
+"Missoula, MT",182,127,Missoula,3
+"Santa Maria-Santa Barbara, CA",183,126,Santa Maria-Santa Barbara,3
+"Middlesborough, KY",182,120,Middlesborough,3
+"Michigan City-La Porte, IN",274,190,Michigan City-La Porte,3
+"Champaign-Urbana, IL",274,181,Champaign-Urbana,3
+"Eugene, OR",274,179,Eugene,3
+"Madera, CA",182,119,Madera,3
+"Baltimore-Columbia-Towson, MD",305,184,Baltimore-Columbia-Towson,2
+"Clinton, IA",304,192,Clinton,2
+"York-Hanover, PA",182,118,York-Hanover,2
+"Riverton, WY",213,133,Riverton,2
+"Boulder, CO",274,165,Boulder,2
+"Akron, OH",249,152,Akron,2
+"Stockton-Lodi, CA",182,118,Stockton-Lodi,2
+"South Bend-Mishawaka, IN-MI",274,169,South Bend-Mishawaka,2
+"Wheeling, WV-OH",274,174,Wheeling,2
+"Valdosta, GA",241,156,Valdosta,2
+"Pueblo, CO",274,173,Pueblo,2
+"Rapid City, SD",182,116,Rapid City,2
+"Cedar Rapids, IA",305,196,Cedar Rapids,2
+"Boise City, ID",183,115,Boise City,2
+"Athens-Clarke County, GA",272,170,Athens-Clarke County,2
+"Vernal, UT",274,175,Vernal,2
+"Hattiesburg, MS",271,174,Hattiesburg,2
+"Yuma, AZ",274,169,Yuma,2
+"Flagstaff, AZ",273,172,Flagstaff,2
+"Lawton, OK",270,175,Lawton,2
+"Kokomo, IN",274,168,Kokomo,2
+"Lafayette-West Lafayette, IN",305,194,Lafayette-West Lafayette,2
+"Merced, CA",182,110,Merced,2
+"Lake City, FL",182,110,Lake City,2
+"Fort Smith, AR-OK",211,133,Fort Smith,2
+"Lakeland-Winter Haven, FL",182,118,Lakeland-Winter Haven,2
+"Florence, SC",273,165,Florence,2
+"Glenwood Springs, CO",274,178,Glenwood Springs,2
+"Logan, UT-ID",274,172,Logan,2
+"Farmington, NM",272,165,Farmington,2
+"Evansville, IN-KY",305,185,Evansville,2
+"Elkhart-Goshen, IN",274,172,Elkhart-Goshen,2
+"Mobile, AL",212,135,Mobile,2
+"Minneapolis-St. Paul-Bloomington, MN-WI",183,118,Minneapolis-St. Paul-Bloomington,2
+"Killeen-Temple, TX",182,110,Killeen-Temple,2
+"North Port-Sarasota-Bradenton, FL",274,170,North Port-Sarasota-Bradenton,2
+"Des Moines-West Des Moines, IA",305,193,Des Moines-West Des Moines,2
+"Kalamazoo-Portage, MI",182,115,Kalamazoo-Portage,2
+"Gulfport-Biloxi-Pascagoula, MS",274,168,Gulfport-Biloxi-Pascagoula,2
+"Espa?ola, NM",179,113,Espa?ola,2
+"Gadsden, AL",212,125,Gadsden,1
+"Seattle-Tacoma-Bellevue, WA",214,128,Seattle-Tacoma-Bellevue,1
+"McAlester, OK",272,150,McAlester,1
+"Harrisburg-Carlisle, PA",182,108,Harrisburg-Carlisle,1
+"Youngstown-Warren-Boardman, OH-PA",274,161,Youngstown-Warren-Boardman,1
+"Canton-Massillon, OH",275,144,Canton-Massillon,1
+"Holland, MI",274,163,Holland,1
+"Hot Springs, AR",77,40,Hot Springs,1
+"Fairbanks, AK",183,97,Fairbanks,1
+"Sierra Vista-Douglas, AZ",274,163,Sierra Vista-Douglas,1
+"Winston-Salem, NC",244,128,Winston-Salem,1
+"Louisville/Jefferson County, KY-IN",295,156,Louisville/Jefferson County,1
+"Corsicana, TX",182,101,Corsicana,1
+"Spartanburg, SC",271,141,Spartanburg,1
+"Hammond, LA",65,33,Hammond,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",305,175,Washington-Arlington-Alexandria,1
+"St. Joseph, MO-KS",178,106,St. Joseph,1
+"Ardmore, OK",274,152,Ardmore,1
+"Tallahassee, FL",182,101,Tallahassee,1
+"Lancaster, PA",182,93,Lancaster,1
+"Terre Haute, IN",274,149,Terre Haute,1
+"Texarkana, TX-AR",181,97,Texarkana,1
+"Greenville-Anderson-Mauldin, SC",271,158,Greenville-Anderson-Mauldin,1
+"Weirton-Steubenville, WV-OH",274,159,Weirton-Steubenville,1
+"Great Falls, MT",87,52,Great Falls,1
+"Lake Charles, LA",305,154,Lake Charles,1
+"Gettysburg, PA",245,144,Gettysburg,1
+"Waterloo-Cedar Falls, IA",304,176,Waterloo-Cedar Falls,1
+"Bartlesville, OK",243,132,Bartlesville,1
+"Fort Wayne, IN",274,162,Fort Wayne,1
+"Houma-Thibodaux, LA",301,154,Houma-Thibodaux,1
+"Davenport-Moline-Rock Island, IA-IL",306,182,Davenport-Moline-Rock Island,1
+"Dayton, OH",275,153,Dayton,1
+"Pensacola-Ferry Pass-Brent, FL",182,109,Pensacola-Ferry Pass-Brent,1
+"Oxnard-Thousand Oaks-Ventura, CA",213,120,Oxnard-Thousand Oaks-Ventura,1
+"Durham-Chapel Hill, NC",274,151,Durham-Chapel Hill,1
+"Colorado Springs, CO",274,141,Colorado Springs,1
+"Panama City, FL",180,93,Panama City,1
+"Reno, NV",244,128,Reno,1
+"Durango, CO",305,181,Durango,1
+"Provo-Orem, UT",275,151,Provo-Orem,1
+"Eagle Pass, TX",172,99,Eagle Pass,1
+"Omaha-Council Bluffs, NE-IA",305,161,Omaha-Council Bluffs,1
+"New Orleans-Metairie, LA",306,153,New Orleans-Metairie,1
+"El Dorado, AR",92,47,El Dorado,1
+"Prescott, AZ",273,145,Prescott,1
+"San Juan-Carolina-Caguas, PR",274,147,San Juan-Carolina-Caguas,1
+"Modesto, CA",184,109,Modesto,1
+"Ponca City, OK",264,156,Ponca City,1
+"College Station-Bryan, TX",172,102,College Station-Bryan,1
+"Riverside-San Bernardino-Ontario, CA",245,27,Riverside-San Bernardino-Ontario,0
+"Atlanta-Sandy Springs-Roswell, GA",306,109,Atlanta-Sandy Springs-Roswell,0
+"Knoxville, TN",305,137,Knoxville,0
+"Augusta-Richmond County, GA-SC",274,134,Augusta-Richmond County,0
+"Cleveland-Elyria, OH",275,90,Cleveland-Elyria,0
+"Fresno, CA",244,73,Fresno,0
+"Kingsville, TX",169,77,Kingsville,0
+"Oklahoma City, OK",275,101,Oklahoma City,0
+"Visalia-Porterville, CA",244,72,Visalia-Porterville,0
+"Detroit-Warren-Dearborn, MI",275,109,Detroit-Warren-Dearborn,0
+"Memphis, TN-MS-AR",305,93,Memphis,0
+"Waco, TX",183,90,Waco,0
+"Indianapolis-Carmel-Anderson, IN",305,126,Indianapolis-Carmel-Anderson,0
+"Corpus Christi, TX",182,64,Corpus Christi,0
+"Hanford-Corcoran, CA",182,86,Hanford-Corcoran,0
+"Pittsburgh, PA",183,88,Pittsburgh,0
+"Phoenix-Mesa-Scottsdale, AZ",275,38,Phoenix-Mesa-Scottsdale,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",305,138,Philadelphia-Camden-Wilmington,0
+"Houston-The Woodlands-Sugar Land, TX",183,24,Houston-The Woodlands-Sugar Land,0
+"Payson, AZ",274,123,Payson,0
+"Kansas City, MO-KS",182,70,Kansas City,0
+"Jacksonville, FL",274,135,Jacksonville,0
+"Albuquerque, NM",275,83,Albuquerque,0
+"Greeley, CO",274,118,Greeley,0
+"Grand Rapids-Wyoming, MI",275,130,Grand Rapids-Wyoming,0
+"Bakersfield, CA",274,74,Bakersfield,0
+"Denver-Aurora-Lakewood, CO",285,67,Denver-Aurora-Lakewood,0
+"Austin-Round Rock, TX",183,61,Austin-Round Rock,0
+"Tulsa, OK",275,115,Tulsa,0
+"Lafayette, LA",305,133,Lafayette,0
+"San Diego-Carlsbad, CA",254,124,San Diego-Carlsbad,0
+"Fort Collins, CO",274,124,Fort Collins,0
+"El Centro, CA",192,65,El Centro,0
+"Little Rock-North Little Rock-Conway, AR",275,104,Little Rock-North Little Rock-Conway,0
+"Charlotte-Concord-Gastonia, NC-SC",275,117,Charlotte-Concord-Gastonia,0
+"Salt Lake City, UT",306,149,Salt Lake City,0
+"San Antonio-New Braunfels, TX",183,63,San Antonio-New Braunfels,0
+"Los Angeles-Long Beach-Anaheim, CA",245,36,Los Angeles-Long Beach-Anaheim,0
+"Brownsville-Harlingen, TX",182,32,Brownsville-Harlingen,0
+"Ogden-Clearfield, UT",278,133,Ogden-Clearfield,0
+"San Francisco-Oakland-Hayward, CA",61,30,San Francisco-Oakland-Hayward,0
+"Shreveport-Bossier City, LA",305,131,Shreveport-Bossier City,0
+"Macon, GA",274,136,Macon,0
+"El Paso, TX",183,45,El Paso,0
+"Miami-Fort Lauderdale-West Palm Beach, FL",274,123,Miami-Fort Lauderdale-West Palm Beach,0
+"Carlsbad-Artesia, NM",244,108,Carlsbad-Artesia,0
+"McAllen-Edinburg-Mission, TX",182,53,McAllen-Edinburg-Mission,0
+"Chattanooga, TN-GA",274,123,Chattanooga,0
+"St. Louis, MO-IL",274,92,St. Louis,0
+"Sacramento--Roseville--Arden-Arcade, CA",274,134,Sacramento--Roseville--Arden-Arcade,0
+"Las Vegas-Henderson-Paradise, NV",275,68,Las Vegas-Henderson-Paradise,0
+"Baton Rouge, LA",305,109,Baton Rouge,0
+"Miami, OK",213,104,Miami,0
+"Tucson, AZ",275,105,Tucson,0
+"Ocala, FL",182,75,Ocala,0
+"New York-Newark-Jersey City, NY-NJ-PA",275,120,New York-Newark-Jersey City,0
+"Beaumont-Port Arthur, TX",182,77,Beaumont-Port Arthur,0
+"Toledo, OH",274,114,Toledo,0
+"Cincinnati, OH-KY-IN",275,93,Cincinnati,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",182,85,Nashville-Davidson--Murfreesboro--Franklin,0
+"Chicago-Naperville-Elgin, IL-IN-WI",275,71,Chicago-Naperville-Elgin,0
+"Tampa-St. Petersburg-Clearwater, FL",275,128,Tampa-St. Petersburg-Clearwater,0
+"Bishop, CA",272,93,Bishop,0
+"Laramie, WY",240,117,Laramie,0
+"Laredo, TX",183,81,Laredo,0
+"Las Cruces, NM",182,62,Las Cruces,0
+"Dallas-Fort Worth-Arlington, TX",183,50,Dallas-Fort Worth-Arlington,0

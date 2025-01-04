@@ -1,0 +1,303 @@
+City,Crime Cost per Capita,score,State
+Thousand Oaks,241.0,10, CA
+League City,490.0,10, TX
+Fishers,296.0,10, IN
+Bellevue,586.0,10, WA
+Peoria,586.0,10, AZ
+Goodyear,579.0,10, AZ
+Bend,578.0,10, OR
+Richardson,574.0,10, TX
+Centennial,569.0,10, CO
+Yonkers,556.0,10, NY
+Port St. Lucie,536.0,10, FL
+Buckeye,528.0,10, AZ
+Amherst Town,524.0,10, NY
+Stamford,514.0,10, CT
+Roseville,502.0,10, CA
+Scottsdale,543.0,10, AZ
+Woodbridge Township,478.0,10, NJ
+Simi Valley,404.0,10, CA
+Temecula,461.0,10, CA
+Pearland,328.0,10, TX
+Gilbert,356.0,10, AZ
+Irvine,364.0,10, CA
+Coral Springs,375.0,10, FL
+Naperville,402.0,10, IL
+Pembroke Pines,322.0,10, FL
+Carmel,405.0,10, IN
+Surprise,418.0,10, AZ
+Plano,420.0,10, TX
+Elk Grove,427.0,10, CA
+Mckinney,437.0,10, TX
+Escondido,762.0,9, CA
+Arvada,713.0,9, CO
+Huntington Beach,713.0,9, CA
+Vacaville,715.0,9, CA
+Rancho Cucamonga,722.0,9, CA
+Ventura,754.0,9, CA
+Elgin,759.0,9, IL
+Corona,768.0,9, CA
+Sandy Springs,765.0,9, GA
+Boise,709.0,9, ID
+Garland,772.0,9, TX
+Virginia Beach,773.0,9, VA
+Santa Clara,773.0,9, CA
+Aurora,774.0,9, IL
+St. George,712.0,9, UT
+Menifee,657.0,9, CA
+Burbank,703.0,9, CA
+College Station,633.0,9, TX
+Clovis,597.0,9, CA
+Carrollton,702.0,9, TX
+Murrieta,602.0,9, CA
+Round Rock,602.0,9, TX
+Rochester,614.0,9, MN
+Olathe,627.0,9, KS
+Sterling Heights,598.0,9, MI
+Henderson,673.0,9, NV
+Fontana,676.0,9, CA
+Ann Arbor,696.0,9, MI
+Fremont,699.0,9, CA
+Torrance,702.0,9, CA
+Arlington,670.0,9, VA
+Jersey City,932.0,8, NJ
+Thornton,1045.0,8, CO
+Elizabeth,979.0,8, NJ
+El Paso,983.0,8, TX
+Broken Arrow,984.0,8, OK
+Brownsville,1000.0,8, TX
+Edinburg,1024.0,8, TX
+Westminster,1060.0,8, CO
+Joliet,1055.0,8, IL
+West Covina,1057.0,8, CA
+Lee'S Summit,1066.0,8, MO
+Jurupa Valley,1079.0,8, CA
+Hillsboro,1098.0,8, OR
+Fort Lauderdale,945.0,8, FL
+Eugene,1043.0,8, OR
+Quincy,918.0,8, MA
+Fullerton,854.0,8, CA
+Grand Prairie,908.0,8, TX
+Fort Collins,810.0,8, CO
+Overland Park,818.0,8, KS
+Alexandria,818.0,8, VA
+Honolulu,832.0,8, HI
+Mcallen,849.0,8, TX
+Garden Grove,804.0,8, CA
+Dearborn,779.0,8, MI
+Madison,879.0,8, WI
+Chandler,885.0,8, AZ
+Norman,886.0,8, OK
+Chula Vista,890.0,8, CA
+Concord,876.0,8, NC
+Warren,1340.0,7, MI
+Palm Bay,1301.0,7, FL
+Pasadena,1303.0,7, CA
+Lowell,1307.0,7, MA
+Hesperia,1320.0,7, CA
+Charleston,1330.0,7, SC
+Salem,1385.0,7, OR
+Santa Rosa,1361.0,7, CA
+Oceanside,1362.0,7, CA
+Lewisville,1393.0,7, TX
+Hayward,1395.0,7, CA
+Mesa,1404.0,7, AZ
+Lincoln,1288.0,7, NE
+Nampa,1294.0,7, ID
+Manchester,1286.0,7, NH
+El Monte,1100.0,7, CA
+Moreno Valley,1170.0,7, CA
+West Jordan,1280.0,7, UT
+Laredo,1105.0,7, TX
+Providence,1107.0,7, RI
+Spokane Valley,1112.0,7, WA
+Chico,1158.0,7, CA
+Rio Rancho,1161.0,7, NM
+Ontario,1138.0,7, CA
+Clearwater,1187.0,7, FL
+Costa Mesa,1189.0,7, CA
+San Diego,1206.0,7, CA
+Denton,1233.0,7, TX
+Rialto,1257.0,7, CA
+Irving,1275.0,7, TX
+Mesquite,1670.0,6, TX
+Worcester,1595.0,6, MA
+Boulder,1601.0,6, CO
+Tempe,1637.0,6, AZ
+Murfreesboro,1641.0,6, TN
+Renton,1646.0,6, WA
+Visalia,1652.0,6, CA
+Reno,1582.0,6, NV
+Clarksville,1679.0,6, TN
+Anaheim,1707.0,6, CA
+New York,1722.0,6, NY
+Fargo,1780.0,6, ND
+Boston,1787.0,6, MA
+Modesto,1795.0,6, CA
+Arlington,1593.0,6, TX
+Allentown,1416.0,6, PA
+West Valley,1582.0,6, UT
+San Jose,1472.0,6, CA
+Riverside,1580.0,6, CA
+Sioux Falls,1439.0,6, SD
+Fort Wayne,1447.0,6, IN
+Concord,1453.0,6, CA
+Sparks,1458.0,6, NV
+Berkeley,1457.0,6, CA
+New Bedford,1479.0,6, MA
+Green Bay,1495.0,6, WI
+Cedar Rapids,1534.0,6, IA
+Athens-Clarke County,1579.0,6, GA
+Athens-Clarke County,1579.0,6, GA
+Abilene,1580.0,6, TX
+Las Vegas Metropolitan Police Department,2066.0,5, NV
+Columbia,1981.0,5, MO
+Longmont,1984.0,5, CO
+Raleigh,1987.0,5, NC
+Greeley,2008.0,5, CO
+Glendale,2013.0,5, AZ
+Brockton,2032.0,5, MA
+Gresham,1957.0,5, OR
+Pasadena,2083.0,5, TX
+San Francisco,2092.0,5, CA
+Midland,2114.0,5, TX
+Tampa,2149.0,5, FL
+Bakersfield,2160.0,5, CA
+Columbus,2168.0,5, GA
+Fairfield,1964.0,5, CA
+Bridgeport,1819.0,5, CT
+Antioch,1955.0,5, CA
+North Las Vegas,1848.0,5, NV
+Davenport,1819.0,5, IA
+Salinas,1824.0,5, CA
+Odessa,1827.0,5, TX
+Omaha,1829.0,5, NE
+St. Petersburg,1837.0,5, FL
+Chesapeake,1930.0,5, VA
+Lexington,1853.0,5, KY
+Downey,1900.0,5, CA
+Kent,1905.0,5, WA
+Austin,1909.0,5, TX
+Long Beach,1921.0,5, CA
+Lynn,1856.0,5, MA
+Springfield,2450.0,4, MA
+Seattle,2394.0,4, WA
+Hampton,2396.0,4, VA
+Las Cruces,2406.0,4, NM
+Waterbury,2420.0,4, CT
+Waco,2421.0,4, TX
+High Point,2509.0,4, NC
+Gainesville,2473.0,4, FL
+Lakewood,2489.0,4, CO
+Tuscaloosa,2530.0,4, AL
+Los Angeles,2539.0,4, CA
+Wichita,2586.0,4, KS
+Colorado Springs,2388.0,4, CO
+Killeen,2391.0,4, TX
+Spokane,2343.0,4, WA
+Springfield,2191.0,4, IL
+Tyler,2247.0,4, TX
+Oklahoma City,2328.0,4, OK
+Wilmington,2200.0,4, NC
+Pomona,2205.0,4, CA
+Palmdale,2207.0,4, CA
+Columbia,2187.0,4, SC
+Fort Worth,2237.0,4, TX
+Vancouver,2227.0,4, WA
+Santa Maria,2252.0,4, CA
+New Haven,2260.0,4, CT
+Everett,2277.0,4, WA
+Lancaster,2283.0,4, CA
+Independence,2311.0,4, MO
+Miami,2319.0,4, FL
+Newark,2936.0,3, NJ
+Corpus Christi,2942.0,3, TX
+Phoenix,2949.0,3, AZ
+Victorville,2956.0,3, CA
+Greensboro,2962.0,3, NC
+St. Paul,2978.0,3, MN
+Durham,2890.0,3, NC
+Newport News,3035.0,3, VA
+Lubbock,3057.0,3, TX
+Inglewood,3062.0,3, CA
+Lafayette,3106.0,3, LA
+Richmond,3135.0,3, CA
+Anchorage,3264.0,3, AK
+Topeka,2910.0,3, KS
+Billings,3008.0,3, MT
+Grand Rapids,2872.0,3, MI
+Orlando,2721.0,3, FL
+Syracuse,2856.0,3, NY
+Charlotte-Mecklenburg,2592.0,3, NC
+Sacramento,2638.0,3, CA
+Wichita Falls,2653.0,3, TX
+Jackson,2670.0,3, MS
+Columbus,2683.0,3, OH
+Charlotte-Mecklenburg,2592.0,3, NC
+Tucson,2779.0,3, AZ
+Jacksonville,2838.0,3, FL
+Salt Lake City,2783.0,3, UT
+Amarillo,2811.0,3, TX
+Dallas,2834.0,3, TX
+Fresno,2780.0,3, CA
+Beaumont,3751.0,2, TX
+Vallejo,3755.0,2, CA
+East Los Angeles,3778.0,2, CA
+Richmond,3788.0,2, VA
+Evansville,3969.0,2, IN
+Akron,3985.0,2, OH
+Houston,4098.0,2, TX
+South Fulton,4091.0,2, GA
+Buffalo,4132.0,2, NY
+Minneapolis,4202.0,2, MN
+Cincinnati,4324.0,2, OH
+Louisville,4395.0,2, KY
+Denver,3678.0,2, CO
+Lansing,3719.0,2, MI
+Savannah,4037.0,2, GA
+Springfield,3647.0,2, MO
+Chicago,3553.0,2, IL
+Metropolitan Nashville Police Department,3268.0,2, TN
+Portland,3319.0,2, OR
+Winston-Salem,3365.0,2, NC
+Tulsa,3405.0,2, OK
+Knoxville,3521.0,2, TN
+Stockton,3504.0,2, CA
+Aurora,3572.0,2, CO
+Paterson,3614.0,2, NJ
+San Antonio,3619.0,2, TX
+Rockford,3628.0,2, IL
+Fayetteville,3635.0,2, NC
+Mobile,3647.0,2, AL
+Chattanooga,3647.0,2, TN
+Milwaukee,7029.0,1, WI
+Philadelphia,5570.0,1, PA
+San Bernardino,5691.0,1, CA
+Oakland,5710.0,1, CA
+Pueblo,5979.0,1, CO
+Kansas City,6398.0,1, MO
+New Orleans,11094.0,1, LA
+Cleveland,7397.0,1, OH
+Little Rock,7781.0,1, AR
+Baltimore,8160.0,1, MD
+Memphis,9056.0,1, TN
+Detroit,9281.0,1, MI
+St. Louis,11055.0,1, MO
+Baton Rouge,5388.0,1, LA
+Atlanta,5502.0,1, GA
+Toledo,4652.0,1, OH
+Dayton,5146.0,1, OH
+Tacoma,5140.0,1, WA
+North Charleston,4976.0,1, SC
+Rochester,4963.0,1, NY
+Albuquerque,4916.0,1, NM
+Kansas City,4847.0,1, KS
+Peoria,4649.0,1, IL
+Hartford,4644.0,1, CT
+Washington,4641.0,1, DC
+Shreveport,4589.0,1, LA
+Norfolk,4562.0,1, VA
+Indianapolis,4515.0,1, IN
+South Bend,4427.0,1, IN
+Pittsburgh,4418.0,1, PA
+Birmingham,11392.0,0, AL
