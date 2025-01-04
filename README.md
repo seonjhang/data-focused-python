@@ -27,8 +27,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 streamlit run BestNest.py. Run it from the terminal.
 
-Or directly go to below link.
-https://bestnest.streamlit.app/
+Or directly go to this [link](https://data-focused-python-bestnest.streamlit.app/)
 
 You can select any number of parameter and basis the selection you will get the list of top 10 cities.
 
