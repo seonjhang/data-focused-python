@@ -1,4 +1,4 @@
-# data-focused-python
+# Data Focused Python
 CMU courses, 95-888 Data Focused Python  
 [Course site](https://api.heinz.cmu.edu/courses_api/course_detail/95-888/)
 
