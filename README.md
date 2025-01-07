@@ -3,7 +3,7 @@ CMU courses, 95-888 Data Focused Python
 [Course site](https://api.heinz.cmu.edu/courses_api/course_detail/95-888/)
 
 
-## Proejct Description
+## Project Description
 **Project Name: BestNest**
 
 BestNest is a data-driven application that helps users find the ideal city to live in based on their preferences. It analyzes various factors such as cost of living, literacy rate, crime cost, and air quality to recommend the best city for each user.
